@@ -1,0 +1,6 @@
+{
+  "name": "BIG TASTE — Authentic Nigerian Cuisine & Kitchen Management",
+  "description": "Experience authentic Nigerian culinary excellence: smoky Party Jollof Rice, rich Egusi Soup with Pounded Yam, spicy Beef Suya, Chapman, and traditional favourites with real-time kitchen tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
